@@ -1,0 +1,9 @@
+Файл с управлением игрой
+UP = w
+LEFT = a
+DOWN = s
+RIGHT = d
+START = v
+SAVE = c
+LOAD = x
+EXIT = z 
