@@ -1,2 +1,6 @@
 # OOP_labs_game
-6 labs 1 shit coder
+## Описание
+Консольная игра в жанре adventure
+## Требования
+C++17, g++
+Linux
